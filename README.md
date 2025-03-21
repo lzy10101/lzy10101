@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm lzy10101</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 
 <!--
 **lzy10101/lzy10101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
